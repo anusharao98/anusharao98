@@ -1,0 +1,105 @@
+.homecook-main{
+    background: url(../images/homecook.png) center no-repeat;
+    padding: 50em 0 0 0;
+    background-size: contain;
+}
+.top-line {
+    padding-bottom: 3em;
+}
+
+
+h3, h4{
+    color: #fff;
+}
+.carousel{
+    padding: 0px 10px 25px 10px;
+}
+.quote{
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    color: #612aa9;
+}
+.boldtext{
+    font-weight: bold;
+    color: black;
+    display: inline-block !important;
+    text-transform: inherit !important;
+    font-size: 16px !important;
+}
+#page{
+    background-color: #fff !important;
+    
+}
+#fh5co-author{
+    background: url(../images/background02.png);
+}
+.text-color{
+    color: black;
+}
+h3,h4{
+   color: black; 
+}
+.fh5co-heading p{
+        color: #000;
+}
+li{
+    color: #000;
+    font-size: 16px;
+}
+.fh5co-heading h2{
+    text-transform: none;
+}
+.contain-padding{
+    padding-top: 20px;
+    border-top: 1px solid #b5a8a8;
+    padding-left: 0;
+}
+.text-padding{
+    font-size: 17px;
+}
+.heading-padding{
+    padding: 10px 0;
+    font-weight: bolder;
+    font-size: 22px;
+}
+.new-padding{
+    padding-top: 50px;
+}
+#fh5co-footer{
+    background-color: #fff;
+}
+.color--black{
+    color: #000;
+}
+.btn-primary.btn-outline{
+    color: #000000;
+    border: 2px solid #000000;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active{
+    color: #000000 !important;
+    border: 2px solid #000000 !important;
+}
+.fh5co-nav ul li a{
+    color: #000;
+}
+.fh5co-nav ul li a:hover, .fh5co-nav ul li a:focus, .fh5co-nav ul li a:active{
+    color: #1d1414;
+    font-weight: 600;
+}
+.inner-container{
+    background-color: #fff;
+}
+.question-box2{
+  padding: 100px 150px 0 150px;
+}
+.down-arrow{
+    text-align: -webkit-center;
+    margin: 0;
+}
+.down-arrowwidth{
+    width: 30px;
+    cursor: pointer;
+  }
+  .fh5co-nav .fh5co-social li a{
+    color: #001528;
+  }

@@ -1,0 +1,97 @@
+body{
+    font-size: 20px;
+}
+#page{
+    background-color: #fff;
+}
+.text-color{
+  color: #141210;
+}
+a {
+  color: #141210;
+}
+a:hover, a:active, a:focus {
+  color: #141210;
+}
+.animate-box{
+  color: #141210;
+}
+.fh5co-nav .fh5co-social li a {
+  color: #141210;
+}
+.fh5co-nav a {
+  color:#141210;
+}
+.fh5co-heading p{
+    color: #141210;
+}
+.fh5co-heading h3{
+    font-size: 24px;
+}
+.row p{
+    margin: 0 0 80px 0;
+}
+.role p{
+    margin: 0 0 20px 0;
+}
+.role{
+    text-transform: none;
+    color: #fff;
+}
+.role h3{
+    text-transform: none;
+    color: #141210;
+}
+.role ul li{
+    font-size: inherit;
+    color: #141210;
+}
+.fh5co-heading{
+    box-shadow: 0 31px 35px rgba(0, 0, 0, 0.19);
+    padding: 7%;
+}
+.defineproblem{
+    padding: 43px;
+}  
+.mainscreen{
+    margin-top: -45px;
+}
+.list-items li{
+    padding-bottom: 15px;
+}
+.text-padding{
+    margin: 0 0 18px 0 !important;
+}
+.outer-text{
+    padding: 25% 0 0 0;
+}
+.outer-text1{
+    padding: 15% 0 0 0;
+}
+.last-li{
+    margin-bottom: 20px;
+}
+.font-change{
+    font-size: 15px;
+}
+.testimony {
+    margin: 0;
+  
+}
+.cover-image{
+width: 100%;
+filter: blur(0.5px);
+}
+.box-padding{
+    padding: inherit;
+}
+#fh5co-author{
+    background: url(../images/background02.png);
+}
+#fh5co-footer{
+    background-color: #fff;
+}
+.video-center{
+    text-align: center;
+    margin-bottom: 35px;
+}
